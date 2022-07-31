@@ -1,0 +1,9 @@
+.item {
+  width: 320px;
+  height: 320px;
+  background-color: grey;
+}
+
+.wrapper {
+  width: 100%;
+}
